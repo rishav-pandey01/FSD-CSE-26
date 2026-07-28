@@ -5,3 +5,5 @@ console.log("b=",b);
 console.log("a+b=",a+b);
 let c=b;
 console.log("c=",c);
+
+
