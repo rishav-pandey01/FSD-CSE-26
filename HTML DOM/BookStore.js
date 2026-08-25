@@ -1,6 +1,7 @@
 const bookdata=[{
     image:"https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",price:465},
     {image:"https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",price:500},
+    {image:"https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",price:600},
     {image:"https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",price:600}
 ];
 function Book(data){
