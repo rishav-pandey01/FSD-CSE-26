@@ -1,0 +1,26 @@
+.btn{
+    width:100px;
+    height:100px;
+    background-color: black;
+    color:white;
+    border-radius: 20px;
+    display: flex;
+    color: white;
+    font-size: 32px;
+    justify-content: center;
+    align-items: center;
+}
+.id1{
+    width: 200px;
+    height:100px;
+    background-color:red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+
+   
+   
+
+
+}
