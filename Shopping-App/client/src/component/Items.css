@@ -1,0 +1,27 @@
+.card{
+    width: 400px;
+    height:400px;
+    background-color: bisque;
+    border:2px solid red;
+    border-radius: 20px;
+    display:flex;
+    flex-direction: column;
+   align-items:center;
+    justify-content:center;
+
+
+}
+.card img{
+    width: 100px;
+    height: 100px;
+}
+.card h3{
+    margin: 5px;
+    padding:5px;
+    color: purple;
+
+}
+.btn{
+    width:auto;
+
+}
